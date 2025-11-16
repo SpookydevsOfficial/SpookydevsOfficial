@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/images/jackolantern.png" width="45"/> Spookydevs/SpookydevsOfficial
+# <img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/images/jackolantern.png" width="30"/> Spookydevs/SpookydevsOfficial
 
 **`🎖 DIGITAL CHAOS ENGINEER (Creator / Developer / Designer)`**
 
@@ -19,7 +19,7 @@ I make cool stuff, experiment with code, and sometimes break things… but I try
   </a>
 </p>
 
-# <img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/images/jackolantern.png" width="45"/> Things I Sometimes Use
+# <img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/images/jackolantern.png" width="30"/> Things I Sometimes Use
 
 Here’s a list of tools, languages, and software I work with:
 
