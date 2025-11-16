@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/images/aboutme.png" style="height:50px; width:100px;" />
+<img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/images/aboutme.png" style="height:100px; width:400px;" />
 
 # Spookydevs/SpookydevsOfficial
 
