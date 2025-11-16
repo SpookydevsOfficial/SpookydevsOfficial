@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/images/aboutme.png" style="height:100px; width:400px;" />
-
 # Spookydevs/SpookydevsOfficial
 
 **`🎖 DIGITAL CHAOS ENGINEER (Creator / Developer / Designer)`**
@@ -21,7 +19,7 @@ I make cool stuff, experiment with code, and sometimes break things… but I try
   </a>
 </p>
 
-# <img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/images/jackolantern.png" width="30"/> Things I Sometimes Use
+# Stuff I Sometimes Use
 
 Here’s a list of tools, languages, and software I work with:
 
