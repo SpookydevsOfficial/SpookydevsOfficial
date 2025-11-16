@@ -1,4 +1,6 @@
-# <img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/images/jackolantern.png" width="30"/> Spookydevs/SpookydevsOfficial
+# <img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/images/aboutme.png" width="100"/>
+
+# Spookydevs/SpookydevsOfficial
 
 **`🎖 DIGITAL CHAOS ENGINEER (Creator / Developer / Designer)`**
 
