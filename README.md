@@ -5,10 +5,18 @@
 I make cool stuff, experiment with code, and sometimes break things… but I try my best! Here you’ll find projects related to games, bots, tools, and more. Feel free to explore and check out my work.
 
 <p align="left">
-  <a href="YOUR_YOUTUBE_CHANNEL"><img alt="YouTube Subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/YOUR_CHANNEL_ID?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=flat&labelColor=FF0000"/></a>
-  <a href="YOUR_YOUTUBE_CHANNEL"><img alt="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/YOUR_CHANNEL_ID?color=%23B7B7B7&logo=eye&logoColor=white&style=flat&labelColor=8D8D8D"/></a>
-  <a href="https://github.com/SpookydevsOfficial?tab=followers"><img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/YOUR_USERNAME?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/SpookydevsOfficial?tab=repositories&sort=stargazers"><img alt="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/YOUR_USERNAME?color=55960c&style=flat&labelColor=488207&logo=star"/></a>
+  <a href="https://www.youtube.com/@Spookydevs_Official">
+    <img alt="YouTube Subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUnaLtRXTH6tnh6MwtFVA1A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=flat&labelColor=FF0000"/>
+  </a>
+  <a href="https://www.youtube.com/@Spookydevs_Official">
+    <img alt="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCUnaLtRXTH6tnh6MwtFVA1A?color=%23B7B7B7&logo=eye&logoColor=white&style=flat&labelColor=8D8D8D"/>
+  </a>
+  <a href="https://github.com/SpookydevsOfficial?tab=followers">
+    <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/SpookydevsOfficial?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SpookydevsOfficial?tab=repositories&sort=stargazers">
+    <img alt="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/SpookydevsOfficial?color=55960c&style=flat&labelColor=488207&logo=star"/>
+  </a>
 </p>
 
 # <img src="https://raw.githubusercontent.com/SpookydevsOfficial/SpookydevsOfficial/main/assets/gifs/happy_pumpkin.gif" width="35"/> Things I Sometimes Use
