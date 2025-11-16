@@ -6,10 +6,10 @@ I make cool stuff, experiment with code, and sometimes break things… but I try
 
 <p align="left">
   <a href="https://www.youtube.com/@Spookydevs_Official">
-    <img alt="YouTube Subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/Spookydevs_Official?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=flat&labelColor=FF0000"/>
+    <img alt="YouTube Subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCY1JQZow3Ljp_KHg6uOlt2g?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=flat&labelColor=FF0000"/>
   </a>
   <a href="https://www.youtube.com/@Spookydevs_Official">
-    <img alt="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/Spookydevs_Official?color=%23B7B7B7&logo=eye&logoColor=white&style=flat&labelColor=8D8D8D"/>
+    <img alt="YouTube Views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCY1JQZow3Ljp_KHg6uOlt2g?color=%23B7B7B7&logo=eye&logoColor=white&style=flat&labelColor=8D8D8D"/>
   </a>
   <a href="https://github.com/SpookydevsOfficial?tab=followers">
     <img alt="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/SpookydevsOfficial?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/>
