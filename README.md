@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/prjVHTD3/Untitled.png" alt="# Spookydevs">
+<img src="https://i.ibb.co/jPmf6tvq/Untitled-modified.png" alt="# Spookydevs">
+
+<br>
 
 **`🎖 DIGITAL CHAOS ENGINEER (Creator / Developer / Designer)`**
 
