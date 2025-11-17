@@ -1,4 +1,4 @@
-<img src="[https://github.com/Spookydevs.png](https://i.ibb.co/prjVHTD3/Untitled.png)" alt="# Spookydevs/SpookydevsOfficial">
+<img src="https://i.ibb.co/prjVHTD3/Untitled.png" alt="# Spookydevs">
 
 **`🎖 DIGITAL CHAOS ENGINEER (Creator / Developer / Designer)`**
 
