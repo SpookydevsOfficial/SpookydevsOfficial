@@ -4,7 +4,7 @@
 
 **`🎖 DIGITAL CHAOS ENGINEER (Creator / Developer / Designer)`**
 
-I make cool stuff, experiment with code, and sometimes break things… but I try my best! Here you’ll find projects related to games, bots, tools, and more. Feel free to explore and check out my work.
+I build, orchestrate, and experiment with complex systems using AI-assisted coding. I make games, bots, tools, software, and full-stack websites — and sometimes break things, but I always make them work! Here, you’ll find projects that push the boundaries of what AI and code can create together.
 
 <p align="left">
   <a href="https://www.youtube.com/@Spookydevs_Official">
