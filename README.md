@@ -4,7 +4,7 @@
 
 **`🎖 DIGITAL CHAOS ENGINEER (Creator / Developer / Designer)`**
 
-I build, orchestrate, and experiment with complex systems using AI-assisted coding. I make games, bots, tools, software, and full-stack websites — and sometimes break things, but I always make them work! Here, you’ll find projects that push the boundaries of what AI and code can create together.
+I design, orchestrate, and build complex systems by leveraging AI as my co-developer. I come up with ideas, plan features, and guide AI to generate the code I need. While I don’t manually write every line, I assemble, integrate, debug, and orchestrate full systems across games, bots, tools, software, and full-stack websites. My strength lies in knowing how to direct AI, combine frameworks, and make complex projects work end-to-end.
 
 <p align="left">
   <a href="https://www.youtube.com/@Spookydevs_Official">
